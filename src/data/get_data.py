@@ -1,4 +1,4 @@
-__all__ = []
+__all__ = ["get_data"]
 __author__ = """whege"""
 __date__ = "9/30/2022"
 __doc__ = """Enter some text here, bitch"""
@@ -100,6 +100,3 @@ def get_data(start_date: date, end_date: date) -> None:
 
     _write_data(data, start_date, end_date)
 
-
-if __name__ == '__main__':
-    get_data(date(2022, 1, 1), date(2022, 3, 1))
