@@ -1,6 +1,6 @@
 # Directories
 /data/
-/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
 
 # User-specific Files
 .env
