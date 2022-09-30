@@ -1,0 +1,9 @@
+# Directories
+/data/
+/.ipynb_checkpoints/
+
+# User-specific Files
+.env
+
+# JetBrains
+/.idea/
