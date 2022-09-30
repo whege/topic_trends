@@ -4,6 +4,7 @@ notebooks/.ipynb_checkpoints/
 
 # User-specific Files
 .env
+src/__pycache__/
 
 # JetBrains
 /.idea/
